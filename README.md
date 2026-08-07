@@ -42,7 +42,7 @@ By the end of this activity, the following objectives were achieved:
 |---|---|
 | Operating System | Windows 11, 64-bit (Build 10.0.26200) |
 | PHP Version | PHP 8.5.9 (cli) (ZTS Visual C++ 2022 x64) |
-| Laravel Version | laravel/installer v5.31.1 [confirm framework version with `php artisan --version` inside the project] |
+| Laravel Version | Laravel Framework 12.x (installer v5.31.1) |
 | Composer Version | Composer 2.10.2 |
 | Git Version | 2.55.0.windows.3 |
 | MySQL Version | 8.0.46 (MySQL Community Server – GPL) |
