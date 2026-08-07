@@ -108,14 +108,16 @@ Below is a step-by-step guide to setting up the Laravel development environment.
    ```
 3. Open a browser and go to `http://127.0.0.1:8000` to view the default Laravel welcome page.
 
-**[Insert Screenshot Here: Laravel welcome page in browser]**
+![Laravel welcome page](screenshots/hello-laravel-homepage.png)
+*Figure 6. Laravel welcome page displayed after running `php artisan serve`.*
 
 ### Step 7: Open the Project in VS Code
 1. Open VS Code.
 2. Use `File > Open Folder` and select the Laravel project directory.
 3. Install recommended extensions (e.g., PHP Intelephense, Laravel Blade Snippets).
 
-**[Insert Screenshot Here: Laravel project opened in VS Code]**
+![VS Code project view](screenshots/vscode.png)
+*Figure 7. Laravel project structure opened in VS Code.*
 
 ---
 
@@ -182,10 +184,10 @@ At least three challenges were experienced during installation:
 ![Laravel installer version](screenshots/laravel-version.png)
 
 **Figure 6.** Laravel welcome page displayed after running `php artisan serve`.
-**[Insert Screenshot — see note below]**
+![Laravel welcome page](screenshots/hello-laravel-homepage.png)
 
 **Figure 7.** Laravel project structure opened in VS Code.
-**[Insert Screenshot]**
+![VS Code project view](screenshots/vscode.png)
 
 ---
 
