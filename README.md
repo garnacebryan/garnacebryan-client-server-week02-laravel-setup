@@ -59,7 +59,7 @@ Below is a step-by-step guide to setting up the Laravel development environment.
 2. Add PHP to the system's environment PATH variable.
 3. Verify installation by running `php -v` in the terminal.
 
-![PHP version output](images/php-version.png)
+![PHP version output](screenshots/php-version.png)
 *Figure 1. PHP version confirmed via `php -v` in the terminal.*
 
 ### Step 2: Install Composer
@@ -67,7 +67,7 @@ Below is a step-by-step guide to setting up the Laravel development environment.
 2. Run the installer and ensure it links to the correct PHP executable.
 3. Verify installation by running `composer -V`.
 
-![Composer version output](images/composer-version.png)
+![Composer version output](screenshots/composer-version.png)
 *Figure 2. Composer version confirmed via `composer -V` in the terminal.*
 
 ### Step 3: Install Git
@@ -75,7 +75,7 @@ Below is a step-by-step guide to setting up the Laravel development environment.
 2. Complete the installation using default settings (or preferred configuration).
 3. Verify installation by running `git --version`.
 
-![Git version output](images/git-version.png)
+![Git version output](screenshots/git-version.png)
 *Figure 3. Git version confirmed via `git --version` in the terminal.*
 
 ### Step 4: Install MySQL
@@ -83,7 +83,7 @@ Below is a step-by-step guide to setting up the Laravel development environment.
 2. Start the MySQL service.
 3. Verify installation by running `mysql --version` or connecting via MySQL Workbench.
 
-![MySQL version output](images/mysql-version.jpg)
+![MySQL version output](screenshots/mysql-version.png.jpg)
 *Figure 4. MySQL version confirmed via `mysql --version` in the terminal.*
 
 ### Step 5: Install Laravel via Composer
@@ -94,7 +94,7 @@ Below is a step-by-step guide to setting up the Laravel development environment.
    ```
 3. Wait for Composer to download and install all dependencies.
 
-![Laravel installer version](images/laravel-version.png)
+![Laravel installer version](screenshots/laravel-version.png)
 *Figure 5. Laravel installer version confirmed via `composer global show laravel/installer`.*
 
 ### Step 6: Run the Laravel Development Server
@@ -167,19 +167,19 @@ At least three challenges were experienced during installation:
 ## 9. Screenshots
 
 **Figure 1.** PHP version verified successfully in the terminal.
-![PHP version output](images/php-version.png)
+![PHP version output](screenshots/php-version.png)
 
 **Figure 2.** Composer installed and version confirmed.
-![Composer version output](images/composer-version.png)
+![Composer version output](screenshots/composer-version.png)
 
 **Figure 3.** Git installation verified via terminal command.
-![Git version output](images/git-version.png)
+![Git version output](screenshots/git-version.png)
 
 **Figure 4.** MySQL service running and version confirmed.
-![MySQL version output](images/mysql-version.jpg)
+![MySQL version output](screenshots/mysql-version.png.jpg)
 
 **Figure 5.** Laravel installer version confirmed via Composer.
-![Laravel installer version](images/laravel-version.png)
+![Laravel installer version](screenshots/laravel-version.png)
 
 **Figure 6.** Laravel welcome page displayed after running `php artisan serve`.
 **[Insert Screenshot — see note below]**
