@@ -46,7 +46,7 @@ By the end of this activity, the following objectives were achieved:
 | Composer Version | Composer 2.10.2 |
 | Git Version | 2.55.0.windows.3 |
 | MySQL Version | 8.0.46 (MySQL Community Server – GPL) |
-| VS Code Version | [e.g., VS Code 1.90.0 — check via Help > About] |
+| VS Code Version | VS Code 1.101.2 |
 
 ---
 
